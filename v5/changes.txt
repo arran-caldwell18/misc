@@ -1,0 +1,6 @@
+Changes:
+    exapandable architecture
+
+    Full C code for effiecny
+
+    no longer hard coded to a certain nueral netowrk shape
